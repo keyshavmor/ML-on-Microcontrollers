@@ -20,8 +20,8 @@ dependencies:
   - brotli=1.0.9=h5eee18b_7
   - brotli-bin=1.0.9=h5eee18b_7
   - brotlipy=0.7.0=py38h27cfd23_1003
-  - ca-certificates=2023.01.10=h06a4308_0
-  - certifi=2022.12.7=py38h06a4308_0
+  - ca-certificates=2023.5.7=hbcca054_0
+  - certifi=2023.5.7=pyhd8ed1ab_0
   - cffi=1.15.1=py38h5eee18b_3
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
   - comm=0.1.2=py38h06a4308_0
@@ -204,7 +204,7 @@ dependencies:
       - grpcio==1.54.0
       - h5py==3.8.0
       - joblib==1.2.0
-      - keras==2.10.0
+      - keras==2.11.0
       - keras-preprocessing==1.1.2
       - libclang==16.0.0
       - markdown==3.4.3
@@ -217,11 +217,11 @@ dependencies:
       - rsa==4.9
       - scikit-learn==1.2.2
       - scipy==1.10.1
-      - tensorboard==2.10.1
+      - tensorboard==2.11.2
       - tensorboard-data-server==0.6.1
       - tensorboard-plugin-wit==1.8.1
-      - tensorflow==2.10.0
-      - tensorflow-estimator==2.10.0
+      - tensorflow==2.11.0
+      - tensorflow-estimator==2.11.0
       - tensorflow-io-gcs-filesystem==0.32.0
       - termcolor==2.3.0
       - threadpoolctl==3.1.0
