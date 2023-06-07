@@ -1,0 +1,9 @@
+../Core/Src/app.cpp:55:36:void __tcf_0()	0	static
+../Core/Src/app.cpp:71:58:void __tcf_2()	0	static
+../Core/Src/app.cpp:65:32:void __tcf_1()	0	static
+../Core/Src/app.cpp:18:6:void ResetTimer()	0	static
+../Core/Src/app.cpp:27:6:void StartTimer()	0	static
+../Core/Src/app.cpp:31:6:void StopTimer()	0	static
+../Core/Src/app.cpp:35:14:unsigned int getCycles()	0	static
+../Core/Src/app.cpp:48:5:int application()	56	static
+../Core/Src/app.cpp:110:6:void DebugLog(const char*)	16	static

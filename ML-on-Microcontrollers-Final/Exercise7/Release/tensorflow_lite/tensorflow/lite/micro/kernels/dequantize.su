@@ -1,0 +1,4 @@
+../tensorflow_lite/tensorflow/lite/micro/kernels/dequantize.cc:31:7:void* tflite::DequantizeInit(TfLiteContext*, const char*, size_t)	8	static
+/Users/mnadalorian/STM32CubeIDE/workspace_1.11.2/Exercise7/tensorflow_lite/tensorflow/lite/kernels/internal/types.h:312:12:int tflite::MatchingFlatSize(const tflite::RuntimeShape&, const tflite::RuntimeShape&)	16	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/dequantize.cc:37:14:TfLiteStatus tflite::DequantizeEval(TfLiteContext*, TfLiteNode*)	88	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/dequantize.cc:83:20:TfLiteRegistration tflite::Register_DEQUANTIZE()	16	static

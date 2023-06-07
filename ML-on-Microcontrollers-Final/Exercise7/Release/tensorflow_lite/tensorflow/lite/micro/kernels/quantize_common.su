@@ -1,0 +1,4 @@
+/Users/mnadalorian/STM32CubeIDE/workspace_1.11.2/Exercise7/tensorflow_lite/tensorflow/lite/kernels/internal/types.h:312:12:int tflite::MatchingFlatSize(const tflite::RuntimeShape&, const tflite::RuntimeShape&)	16	static
+/Users/mnadalorian/STM32CubeIDE/workspace_1.11.2/Exercise7/tensorflow_lite/tensorflow/lite/kernels/internal/common.h:252:16:int32_t tflite::MultiplyByQuantizedMultiplier(int32_t, int32_t, int)	16	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/quantize_common.cc:31:14:TfLiteStatus tflite::PrepareQuantizeReference(TfLiteContext*, TfLiteNode*)	56	static
+../tensorflow_lite/tensorflow/lite/micro/kernels/quantize_common.cc:92:14:TfLiteStatus tflite::EvalQuantizeReference(TfLiteContext*, TfLiteNode*)	104	static
